@@ -1,0 +1,27 @@
+#contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#input-container {
+    display: flex;
+}
+
+.button {
+    color: white;
+    background-color: green;
+    margin-left: 5px;
+}
+
+#listaTareas {
+    list-style: none;
+    padding: 2px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Your existing styles */
+
